@@ -1,16 +1,163 @@
-## Hi there 👋
+# 👋 Hi, I’m David Navarro
 
-<!--
-**David-Navarro-Oliver/David-Navarro-Oliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Navarro-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/david-navarro-oliver/)
 
-Here are some ideas to get you started:
+🎓 Full-Stack Web Development & Cybersecurity Bootcamp Student  
+🧠 Background in IT Systems and Networking  
+🔐 Security-aware Developer in Training
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I am currently enrolled in **two intensive bootcamps** focused on **Full-Stack Web Development** and **Cybersecurity**, where I am building a strong technical foundation through hands-on projects, labs, and practical exercises.
+
+With a background in **IT systems and networking**, I approach development with a broader technical perspective, understanding not only how to build applications, but also how they interact with systems, networks, and security controls.
+
+This GitHub profile documents my **learning journey**, **technical growth**, and **continuous improvement** throughout my training.
+
+---
+
+## 🎯 Current Focus
+
+- Building solid foundations in web development through hands-on projects
+- Applying security awareness to development workflows
+- Improving code quality, structure, and documentation through continuous refactoring
+- Expanding practical experience with cybersecurity tools and hands-on labs
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+- Responsive Design (Flexbox, Grid)
+- REST APIs (fetch)
+- Git & GitHub workflows
+
+---
+
+### ⚙️ Backend & Data
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
+
+- Relational databases (schema design, basic queries)
+- JSON data handling and data interchange
+
+---
+
+### 🔐 Cybersecurity
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
+
+- Networking (TCP/IP, DNS, HTTP)
+- Cryptography (hashing, symmetric & asymmetric)
+- OWASP Top 10
+- Secure coding principles
+- Pentesting fundamentals
+- SOC concepts
+- Log analysis & monitoring
+- Threat & vulnerability analysis
+
+---
+
+### 🛡️ Security Tools
+![Nmap security scanning tool](https://img.shields.io/badge/Nmap-004170?style=flat&logoColor=white)
+![Burp Suite web security testing tool](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logoColor=white)
+![Metasploit penetration testing framework](https://img.shields.io/badge/Metasploit-2A2A2A?style=flat&logoColor=white)
+![Wireshark network protocol analyzer](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logoColor=white)
+![Docker containerization platform](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+- **Scanning & Recon:** Nmap, Amass, Nessus  
+- **Web Security:** Burp Suite, OWASP ZAP, Wfuzz  
+- **Defensive & Analysis:** Suricata, Wireshark  
+- **DevSecOps & Supply Chain:** Snyk, Anchore  
+- **Crypto & Intelligence:** OpenSSL, VirusTotal, Shodan  
+- **Standards:** ISO/IEC 27001 fundamentals
+
+---
+
+### 🧰 Tools & Platforms
+- Docker & Docker Compose
+- Linux environments
+- Apache / Nginx
+- Virtual Machines (VMware, Oracle VirtualBox)
+- Postman
+- GitHub Projects & Issues
+- Visual Studio Code
+- Figma
+
+---
+
+## 🧠 Methodologies & Practices
+- Agile / Scrum
+- Kanban
+- Clean Code principles
+- Documentation-first approach
+
+---
+
+### 📂 Highlighted Projects *(in progress)*
+
+> Representative projects will be added here as they are completed and refined during the bootcamps.
+- 🌐 **Web Development Projects** – HTML, CSS, JavaScript, responsive layouts *(links coming soon)*
+- 🧩 **API & Data Projects** – REST consumption and data handling
+- 🔐 **Cybersecurity Labs** – Pentesting, cryptography, SOC fundamentals
+- 🐳 **Dockerized Environments** – Practice setups and tooling
+
+---
+
+## 🗺️ Learning Roadmap
+
+- ✅ Web fundamentals (HTML, CSS, JS)
+- ✅ Git & collaborative workflows
+- ✅ Networking & security basics
+- 🔄 Advanced JavaScript & frontend architecture
+- 🔄 Secure development practices
+- 🔜 Deeper backend & application security
+- 🔜 SOC and defensive security specialization
+
+---
+
+## 🎓 Education & Certifications
+
+- **Vocational Training Degree in Microcomputer Systems and Networks (SMR)** – Ilerna  
+  *Focus on operating systems, networking, and system administration.*
+
+- **Full Stack Web Development Bootcamp** – Factoría F5  
+
+- **Full Stack Cybersecurity Bootcamp** – KeepCoding  
+
+- **Cybersecurity Course (NIO Program)** – Tecnocampus  
+
+- **Systems Fundamentals Certification** – KeepCoding  
+
+- **Cryptography Module Certification** – KeepCoding  
+
+---
+
+## 📊 GitHub Stats
+
+### 📈 Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=David-Navarro-Oliver&show_icons=true&theme=github_dark)
+
+### 🧠 Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Navarro-Oliver&layout=compact&theme=github_dark&langs_count=6)
+
+### 📊 Profile Summary
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=David-Navarro-Oliver&theme=github_dark)
+
+---
+
+## 📫 Contact
+- 💼 LinkedIn: https://www.linkedin.com/in/david-navarro-oliver/
+
+---
+
+⭐ *This profile will continuously evolve as I progress through my training and projects.*
