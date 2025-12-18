@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Navarro-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/david-navarro-oliver/)
 
-🎓 Full-Stack Web Development & Cybersecurity Bootcamp Student  
+🎓 Full-Stack Web Development and Cybersecurity Bootcamp Student  
 🧠 Background in IT Systems and Networking  
 🔐 Security-aware Developer in Training
 
@@ -38,7 +38,7 @@ This GitHub profile documents my **learning journey**, **technical growth**, and
 
 - Responsive Design (Flexbox, Grid)
 - REST APIs (fetch)
-- Git & GitHub workflows
+- Git and GitHub workflows
 
 ---
 
@@ -57,13 +57,13 @@ This GitHub profile documents my **learning journey**, **technical growth**, and
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
 
 - Networking (TCP/IP, DNS, HTTP)
-- Cryptography (hashing, symmetric & asymmetric)
+- Cryptography (hashing, symmetric and asymmetric)
 - OWASP Top 10
 - Secure coding principles
 - Pentesting fundamentals
 - SOC concepts
-- Log analysis & monitoring
-- Threat & vulnerability analysis
+- Log analysis and monitoring
+- Threat and vulnerability analysis
 
 ---
 
@@ -74,22 +74,22 @@ This GitHub profile documents my **learning journey**, **technical growth**, and
 ![Wireshark network protocol analyzer](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logoColor=white)
 ![Docker containerization platform](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-- **Scanning & Recon:** Nmap, Amass, Nessus  
+- **Scanning and Recon:** Nmap, Amass, Nessus  
 - **Web Security:** Burp Suite, OWASP ZAP, Wfuzz  
-- **Defensive & Analysis:** Suricata, Wireshark  
-- **DevSecOps & Supply Chain:** Snyk, Anchore  
-- **Crypto & Intelligence:** OpenSSL, VirusTotal, Shodan  
+- **Defensive and Analysis:** Suricata, Wireshark  
+- **DevSecOps and Supply Chain:** Snyk, Anchore  
+- **Crypto and Intelligence:** OpenSSL, VirusTotal, Shodan  
 - **Standards:** ISO/IEC 27001 fundamentals
 
 ---
 
-### 🧰 Tools & Platforms
-- Docker & Docker Compose
+### 🧰 Tools and Platforms
+- Docker and Docker Compose
 - Linux environments
 - Apache / Nginx
 - Virtual Machines (VMware, Oracle VirtualBox)
 - Postman
-- GitHub Projects & Issues
+- GitHub Projects and Issues
 - Visual Studio Code
 - Figma
 
@@ -103,13 +103,24 @@ This GitHub profile documents my **learning journey**, **technical growth**, and
 
 ---
 
-### 📂 Highlighted Projects *(in progress)*
+### 📂 Highlighted Projects
 
-> Representative projects will be added here as they are completed and refined during the bootcamps.
-- 🌐 **Web Development Projects** – HTML, CSS, JavaScript, responsive layouts *(links coming soon)*
-- 🧩 **API & Data Projects** – REST consumption and data handling
-- 🔐 **Cybersecurity Labs** – Pentesting, cryptography, SOC fundamentals
-- 🐳 **Dockerized Environments** – Practice setups and tooling
+- 🌐 **Agencia Inmobiliaria Vértice Travel** – Team Project  
+  Role: Lead contributor (frontend, integration, and project structure)  
+  Tech stack: HTML, CSS, JavaScript, JSON, CapCut  
+  🌍 Live demo: https://marquesitoclase.github.io/AgenciaGrupo4/  
+  📁 Repository: https://github.com/David-Navarro-Oliver/AgenciaGrupo4
+
+- 🍽️ **El Fogó de l’Encant** – Team Project  
+  Role: Frontend and integration contributor  
+  Tech stack: HTML, CSS, JavaScript  
+  🌍 Live demo: https://albertodeveloper94.github.io/elFogoDelEncant/index  
+  📁 Repository: https://github.com/David-Navarro-Oliver/elFogoDelEncant
+
+- 🔐 **Cryptography Practice** – Academic Security Lab  
+  Topics: AES (CBC, GCM), HMAC, RSA-OAEP, ChaCha20-Poly1305, JWT, HKDF, TR-31, digital signatures  
+  Description: Advanced academic cryptography practice including documented analysis, exercises, and supporting code.  
+  📁 Repository: https://github.com/David-Navarro-Oliver/Practica_criptografia
 
 ---
 
@@ -117,10 +128,10 @@ This GitHub profile documents my **learning journey**, **technical growth**, and
 
 - ✅ Web fundamentals (HTML, CSS, JS)
 - ✅ Git & collaborative workflows
-- ✅ Networking & security basics
-- 🔄 Advanced JavaScript & frontend architecture
+- ✅ Networking and security basics
+- 🔄 Advanced JavaScript and frontend architecture
 - 🔄 Secure development practices
-- 🔜 Deeper backend & application security
+- 🔜 Deeper backend and application security
 - 🔜 SOC and defensive security specialization
 
 ---
