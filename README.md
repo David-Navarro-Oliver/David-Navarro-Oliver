@@ -177,11 +177,11 @@ Tecnocampus
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=David-Navarro-Oliver&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+### 📈 Activity ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=David-Navarro-Oliver&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Navarro-Oliver&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+### 🧠 Languages ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Navarro-Oliver&layout=compact&theme=github_dark&langs_count=6)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=David-Navarro-Oliver&theme=github_dark)
+### 📊 Profile Summary ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=David-Navarro-Oliver&theme=github_dark)
 
 ---
 
