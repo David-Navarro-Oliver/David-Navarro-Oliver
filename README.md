@@ -85,6 +85,12 @@ Este perfil de GitHub documenta mi **proceso de aprendizaje, crecimiento técnic
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+- **Reconocimiento y escaneo:** Nmap
+- **Seguridad web:** Burp Suite
+- **Explotación y laboratorio:** Metasploit
+- **Análisis de tráfico:** Wireshark
+- **Entornos y despliegue:** Docker
+
 ---
 
 # 📂 Proyectos destacados
@@ -171,9 +177,9 @@ Tecnocampus
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=David-Navarro-Oliver&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=David-Navarro-Oliver&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Navarro-Oliver&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Navarro-Oliver&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=David-Navarro-Oliver&theme=github_dark)
 
